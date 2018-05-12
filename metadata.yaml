@@ -1,0 +1,36 @@
+_repo: Lendas-e-Narrativas--Tomo-II-_17005
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herculano, Alexandre
+    aliases:
+    - Herculano, Alejandro
+    - Carvalho e Araujo, Alexandre Herculano de
+    - Herculano, A. (Alexandre)
+    - De Carvalho e Araújo, Alexandre Herculano
+    - Araujo, Alexandre Herculano de Carvalho e
+    birthdate: 1810
+    deathdate: 1877
+    gutenberg_agent_id: '3118'
+    url: http://www.gutenberg.org/2009/agents/3118
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Alexandre_Herculano
+    - http://en.wikipedia.org/wiki/Alexandre_Herculano_de_Carvalho_e_Araujo
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2005-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17005'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese literature -- 19th century'
+- !lcc 'PQ'
+title: Lendas e Narrativas (Tomo II)
+url: http://www.gutenberg.org/ebooks/17005
